@@ -1,0 +1,66 @@
+
+*{
+    margin:0;
+    padding:0
+}
+
+.Container{
+
+    background-color: aqua;
+    margin:0 auto;
+    max-width: 1150px;
+}
+.image{
+    width: 100px;
+    height: 120px;
+    border: 3px solid white;
+    border-radius: 50%;
+    margin-top: 10px;
+    margin-left: 10px;
+    float:left
+  
+}
+.head{
+   float:left ;
+   padding:30px;
+   color:darkcyan
+}
+.head2{
+
+}
+div.firstletter1::first-letter{
+
+font-size: 40px
+}
+.hear{
+    float:right;
+    padding:20px
+
+}
+div.hear::first-letter{
+    font-size: 50px;
+}
+.hear a{
+    text-decoration: none;
+    color: darkcyan;
+    font-weight: bolder;
+}
+.hear a:hover{
+    color:brown
+}
+.div{
+    clear: both;
+}
+hr{
+    border:2px black solid;
+    width:99%;
+    margin :20px auto;
+    border-bottom: none;
+
+}
+
+
+
+
+
+
